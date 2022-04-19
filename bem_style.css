@@ -1,0 +1,112 @@
+.template_header {
+    position: absolute;
+    height: 50px;
+    background-color: rgb(247, 224, 206);
+}
+.gallery_logo {
+    display: flex;
+    width: 200px;
+    height: 50px;
+}
+.template_menu {
+    position: absolute;
+    display: inline-flex;
+    font-size: 12px;
+    text-align: center;
+    top: -25%;
+    left: 70%;
+    line-height: 150%;
+}  
+.menu_atribute {
+    margin: 12px;
+}
+.atribute {
+    height: 50px;
+    width: 80px;
+    background-color: rgb(233, 167, 44);
+}
+    
+.first_row, .second_row, .third_row {
+    display: inline-flex;
+}
+.template_links {
+    width: 100%;
+    height: 70px;
+    margin-top: -5px;
+    background-color: rgb(223, 162, 87);
+}
+.logo {
+    position: relative;
+    display: inline-flex;
+    margin-top: 30px;
+    left: 43%;
+    border-style: double;
+    background-color: white;
+}
+.footer {
+    position: relative;
+    margin-top: -25px;
+    width: 100%;
+    height: 40px;
+    background-color: rgb(153, 129, 65);
+}
+.footer_text {
+    position: relative;
+    text-align: center;
+    top: 50%;
+}
+.photo1, .photo2, .photo3, .photo4, .photo5, .photo6,
+.photo7, .photo8, .photo9, .photo10, .photo11, .photo12 {
+    position: absolute;
+    font-size: 25px;
+    color: white;
+    top: 140px;
+}
+.photo1 {
+    left: 110px;
+    top: 140px;
+}
+.photo2 {
+    left: 450px;
+    top: 140px;
+}
+.photo3 {
+    right: 450px;
+    top: 140px;
+}
+.photo4 {
+    right: 110px;
+    top: 140px;
+}
+.photo5 {
+    left: 110px;
+    top: 340px;
+}
+.photo6 {
+    left: 450px;
+    top: 340px;
+}
+.photo7 {
+    right: 450px;
+    top: 340px;
+}
+.photo8 {
+    right: 110px;
+    top: 340px;
+}
+.photo9 {
+    left: 110px;
+    top: 540px;
+}
+.photo10 {
+    left: 450px;
+    top: 540px;
+}
+.photo11 {
+    right: 450px;
+    top: 540px;
+}
+.photo12 {
+    right: 110px;
+    top: 540px;
+}
